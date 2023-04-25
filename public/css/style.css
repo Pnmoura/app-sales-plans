@@ -1,0 +1,39 @@
+#title {
+    font-size: 50px;
+    text-align: center;
+}
+
+#navbar img {
+    width: 50px;
+}
+
+#event-create-container {
+    padding: 30px;
+    align-items: center;
+    margin: auto;
+    width: 500px;
+}
+
+#event-create-container label {
+    font-weight: bold;
+    display: inline-block;
+
+}
+
+#event-create-container input,
+#event-create-container select,
+#event-create-container textarea {
+    font-size: 12px;
+}
+
+.campos {
+    margin-top: 10px;
+}
+
+.btn {
+    margin-top: 20px;
+}
+
+.alert {
+    justify-content: center;
+}
